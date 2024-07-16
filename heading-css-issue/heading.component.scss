@@ -1,0 +1,22 @@
+.aui-heading {
+  &--h1 > *,
+  &--styled-h1 > * {
+    font-size: 48px;
+  }
+  &--h2 > *,
+  &--styled-h2 > * {
+    font-size: 36px;
+  }
+  &--h3 > *,
+  &--styled-h3 > * {
+    font-size: 28px;
+  }
+  &--h4 > *,
+  &--styled-h4 > * {
+    font-size: 21;
+  }
+  &--h5 > *,
+  &--styled-h5 > * {
+    font-size: 18px;
+  }
+}

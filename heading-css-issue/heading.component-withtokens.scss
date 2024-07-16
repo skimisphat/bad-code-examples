@@ -1,0 +1,22 @@
+.aui-heading {
+  &--h1 > *,
+  &--styled-h1 > * {
+    font: var(--aui-font-heading-xl);
+  }
+  &--h2 > *,
+  &--styled-h2 > * {
+    font: var(--aui-font-heading-l);
+  }
+  &--h3 > *,
+  &--styled-h3 > * {
+    font: var(--aui-font-heading-m);
+  }
+  &--h4 > *,
+  &--styled-h4 > * {
+    font: var(--aui-font-heading-s);
+  }
+  &--h5 > *,
+  &--styled-h5 > * {
+    font: var(--aui-font-heading-xs);
+  }
+}

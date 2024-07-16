@@ -1,0 +1,15 @@
+.aui-heading--h1 > *, .aui-heading--styled-h1 > * {
+    font-size: 48px;
+}
+.aui-heading--h2 > *, .aui-heading--styled-h2 > * {
+    font-size: 36px;
+}
+.aui-heading--h3 > *, .aui-heading--styled-h3 > * {
+    font-size: 28px;
+}
+.aui-heading--h4 > *, .aui-heading--styled-h4 > * {
+    font-size: 21;
+}
+.aui-heading--h5 > *, .aui-heading--styled-h5 > * {
+    font-size: 18px;
+}
